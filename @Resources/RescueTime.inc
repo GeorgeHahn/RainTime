@@ -2,7 +2,7 @@
 
 ; Your RescueTime API key
 ; Retrieve from https://www.rescuetime.com/anapi/manage
-key = B631Ea463HtB9eLhNeU2U1V6yZsgVbi55nGccF5L
+key = 
 
 
 ; Colors
