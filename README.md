@@ -9,4 +9,4 @@ If you use @RescueTime and @Rainmeter, this skin is for you! https://github.com/
 
 Uses [JSON.lua](http://regex.info/blog/lua/json) by Jeffrey Friedl.
 
-Released under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+Released as [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/deed.en_US).
